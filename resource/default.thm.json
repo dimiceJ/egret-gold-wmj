@@ -1,0 +1,9 @@
+{
+  "skins": {},
+  "autoGenerateExmlsList": true,
+  "exmls": [
+    "src/Game/GameSkin.exml",
+    "src/Game/SceneBeginSkin.exml",
+    "src/Game/goldSkin.exml"
+  ]
+}

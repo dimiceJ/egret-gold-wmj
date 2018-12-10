@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameSkin" width="720" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="true1_jpg" x="0" y="0" width="720" height="1136"/>
+	<e:Label id="time_label" text="" anchorOffsetX="0" width="111.88" anchorOffsetY="0" height="81.52" horizontalCenter="-1" verticalCenter="-480" verticalAlign="middle" textAlign="center" size="40"/>
+	<e:Group id="com_group" width="720" height="1136" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Image id="basket" source="lanzi_png" x="248" y="1038" anchorOffsetX="0" width="198.94" anchorOffsetY="0" height="94.6"/>
+		<e:Label text="score" anchorOffsetX="0" width="114" anchorOffsetY="0" height="47" y="40.76" x="476.94" verticalAlign="middle" textAlign="center" size="40"/>
+		<e:Label id="score_num" text="0" x="601.94" y="32.76" verticalAlign="middle" size="30" anchorOffsetY="0" height="72" anchorOffsetX="0" width="102"/>
+	</e:Group>
+</e:Skin>

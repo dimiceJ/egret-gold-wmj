@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="goldSkin" width="38" height="59" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="gold_mod" source="red1_png" x="0" y="0" anchorOffsetY="0" height="59" anchorOffsetX="0" width="38"/>
+</e:Skin>
